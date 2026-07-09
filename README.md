@@ -127,7 +127,7 @@ This project demonstrates:
 ## Author
 Taha Ali
 
-Developed as an **Operating Systems (OS) Project** using **Fedora Linux**.
+
 
 ```
 
